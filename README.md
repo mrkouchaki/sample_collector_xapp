@@ -1,1 +1,1 @@
-# sample_collector_xapp
+# sc3
